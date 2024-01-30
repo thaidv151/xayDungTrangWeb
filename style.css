@@ -1,0 +1,9 @@
+.sanPham{
+    display: flex;
+}
+.sanPham .anh{
+    float: left;
+}
+.sanPham .moTa{
+    float: left;
+}
